@@ -1,5 +1,5 @@
 
-Rafael Rodríguez Vázquez - Prueba técnica Overstand Intelligence
+Rafael Rodríguez Vázquez 
 
 - Sistema de recomendacion de libros -
 
